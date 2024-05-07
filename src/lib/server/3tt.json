@@ -1,0 +1,28 @@
+[
+	{
+		"id": 0,
+		"question": "Question 0",
+		"solution": "Solution",
+		"time": 10
+	},
+	{
+		"id": 1,
+		"question": "Question 1",
+		"solution": "Solution",
+		"time": 20
+	},
+	{
+		"id": 2,
+		"question": "Was ist das?",
+		"image": "/bg.jpg",
+		"solution": "Solution",
+		"time": 30
+	},
+	{
+		"id": 3,
+		"question": "Was ist das?",
+		"video": "/video/HrPRtYvCvZI.mp4",
+		"solution": "Solution",
+		"time": 40
+	}
+]

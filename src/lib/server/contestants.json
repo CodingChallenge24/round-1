@@ -1,0 +1,43 @@
+[
+	{
+		"username": "1",
+		"name": "Thí sinh 1",
+		"score": 115,
+		"image": "/img/accelerate40.png",
+		"star": true,
+		"input": true,
+		"button": true,
+		"right": 6,
+		"password": "123456"
+	},
+	{
+		"username": "2",
+		"name": "Thí sinh 2",
+		"score": 135,
+		"image": "/img/accelerate41.png",
+		"star": true,
+		"input": true,
+		"button": true,
+		"right": 15
+	},
+	{
+		"username": "3",
+		"name": "Thí sinh 3",
+		"score": 10,
+		"image": "/img/accelerate42.png",
+		"star": true,
+		"input": true,
+		"button": true,
+		"right": 8
+	},
+	{
+		"username": "4",
+		"name": "Thí sinh 4",
+		"score": 170,
+		"image": "/img/accelerate43.png",
+		"star": true,
+		"input": true,
+		"button": true,
+		"right": 13
+	}
+]
